@@ -6,6 +6,7 @@
             :text="showAddTask ? 'Close': 'Add Task'" 
             :color="showAddTask? 'red': 'green'" 
         />
+        
     </header>
 </template>
 
